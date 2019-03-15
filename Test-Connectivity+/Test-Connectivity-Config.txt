@@ -1,0 +1,2 @@
+# Usage: parameter ON = 1. OFF = 0
+fulllogging = 1
